@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1042752797961",
+    "project_id": "curiosity-30c88",
+    "storage_bucket": "curiosity-30c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042752797961:android:b6c5fef154d3700f02e7d8",
+        "android_client_info": {
+          "package_name": "com.rover.curiosity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042752797961-sahkf6oa0epi4mpos5mqk19v2gpltnjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rover.curiosity",
+            "certificate_hash": "b312d0c533d515ef51939cb83e6fbaeb7dfa48e2"
+          }
+        },
+        {
+          "client_id": "1042752797961-04t58rf9ecbv53eip4beprkh91sgm9hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaWXOpE4U58hZ0iKmG4tp18vtumhnB7NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042752797961-04t58rf9ecbv53eip4beprkh91sgm9hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
